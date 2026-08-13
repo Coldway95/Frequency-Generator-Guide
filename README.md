@@ -18,3 +18,12 @@
 - Навыки работы с Markdown (заголовки, списки, таблицы, сноски)
 - Внимание к деталям (сквозная нумерация рисунков, подписи)
 - Адаптация текста под пользователя (предупреждения, подсказки)
+
+## 📄 Формат
+Markdown, GitHub.
+
+## 📲 Ссылка на приложение
+https://play.google.com/store/apps/details?id=com.boedec.hoel.frequencygenerator&hl=ru&ysclid=msrggtnnpe198453403&pli=1
+
+## 📌 Статус 
+Завершён.
